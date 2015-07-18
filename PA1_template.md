@@ -233,3 +233,5 @@ ggplot(data = wdVsWe) +
 ```
 
 ![](PA1_template_files/figure-html/plot_wd_vs_we-1.png) 
+
+It looks like the primary difference between the datasets is a large spike of activity on Weekday mornings versus sustained activity throughout weekend days.
